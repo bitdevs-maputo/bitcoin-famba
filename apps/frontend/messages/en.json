@@ -1,0 +1,42 @@
+{
+  "menu":{
+    "home": "Home",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "events": "Events"
+  },
+  "homeinf": {
+    "title": "The pillar of education, Bitcoin adoption and financial freedom of Bitcoin Famba",
+    "desc": "Empowering people for financial sovereignty in Mozambique",
+    "etc": "Learn, engage and connect with a new decentralized economy",
+    "buttons": {
+      "join": "Join the community",
+      "learn_more": "Learn more"
+    }
+  },
+  "footer": {
+    "description": "It is a community initiative in ",
+    "description_plus": "that promotes Bitcoin education, financial inclusion, and circular local economies. Through workshops, meetups, and youth programs, we empower communities to build financial autonomy using decentralized technology.",
+    "meaning": {
+      "maputo": "Maputo is the capital of Mozambique.",
+      "matola": "Matola is an industrial and residential city.",
+      "region": "Both are part of the metropolitan area.",
+      "bitcoin_famba": "Bitcoin Famba operates in this region."
+    },
+    "social": [
+      { "name": "X", "url": "https://x.com" },
+      { "name": "LinkedIn", "url": "https://linkedin.com" },
+      { "name": "Instagram", "url": "https://instagram.com" },
+      { "name": "Nostr", "url": "https://nostr.com" },
+      { "name": "Signal", "url": "https://signal.org" }
+    ]
+  },
+  "subscribe": {
+    "title": "Subscribe to our newsletter",
+    "emailplaceholder": "Enter your email address",
+    "nameplaceholder": "Enter your first name",
+    "secondnameplaceholder": "Enter your last name",
+    "button": "Subscribe"
+  }
+}
