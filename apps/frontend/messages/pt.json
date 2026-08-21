@@ -1,20 +1,123 @@
 {
-  "menu":{
+  "menu": {
     "home": "Início",
     "about": "Sobre",
     "blog": "Blog",
-    "contact": "Contato",
+    "contact": "Contacto",
     "events": "Eventos"
   },
+  "hero": {
+    "badge": "Comunidade Bitcoin Maputo Moçambique ",
+    "title": "Caminhando rumo à liberdade financeira em Moçambique",
+    "subtitle": "O Bitcoin Famba é uma iniciativa comunitária de base em Maputo-Matola, Moçambique, dedicada a capacitar comunidades através da educação em Bitcoin, construção de uma economia circular e narrativas culturais. 'Famba' significa 'caminhar' em Changana — porque a autonomia financeira é uma jornada que começa com conhecimento, comunidade e coragem.",
+    "cta": "Saiba mais",
+    "scroll": "Scroll",
+    "image_alt": "Comunidade Bitcoin Famba em Maputo, Moçambique",
+    "stats": {
+      "raised": "$2.4K · 2.5M sats",
+      "contributors": "14 Contribuidores",
+      "followers": "4 Seguidores",
+      "posts": "5 Publicações"
+    },
+    "tags": [
+      "bitcoin-adoption",
+      "bitcoin-education",
+      "bitcoin-meetup",
+      "bitcoin-africa"
+    ]
+  },
+  "programs": {
+    "title": "Nossos Programas",
+    "learn_more": "Saiba mais",
+    "items": [
+      {
+        "id": "bitdevs-maputo",
+        "title": "BitDevs Maputo",
+        "description": "Comunidade técnica inspirada no BitDevs NYC. Seminários Socráticos mensais, Leitura de Whitepapers e Debates focados em Bitcoin Core, Lightning, Nostr e Fedimint.",
+        "link": "/events#bitdevs",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "trezor-academy",
+        "title": "Academia Trezor",
+        "description": "Jornada educacional estruturada dos fundamentos do Bitcoin ao domínio avançado e autocustódia. Treinamentos práticos sobre fiat, carteiras onchain/Lightning e segurança.",
+        "link": "/events#trezor",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "fedi-meetup",
+        "title": "Fedi Meetup Maputo",
+        "description": "Workshops interactivos sobre custódia comunitária com Fedimint, eCash e o aplicativo Fedi para transações privadas, inclusão financeira e economia circular em Moçambique.",
+        "link": "/events#fedi",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "bitcoin-for-fairness",
+        "title": "Workshops Bitcoin for Fairness",
+        "description": "Capacitação de base em parceria com a Bitcoin for Fairness (BFF), capacitando estudantes, comerciantes, jovens no skate park, ONGs e jornalistas com ferramentas práticas de Bitcoin.",
+        "link": "/events#bff",
+        "image": "/t.jpeg"
+      }
+    ]
+  },
+  "mission": {
+    "title_prefix": "Nossa",
+    "title_highlight": "Missão",
+    "button": "Entrar em contacto",
+    "heading": "O Bitcoin Famba existe para capacitar comunidades em Moçambique através da educação em Bitcoin, economia circular e soberania financeira.",
+    "p1": "Para cumprir seu potencial como ferramenta de liberdade e direitos humanos, o Bitcoin deve ser acessível, compreensível e adaptado à realidade económica de Moçambique.",
+    "p2": "O nome 'Famba', que significa 'caminhar' em Changana, reflete a convicção de que a autonomia financeira é uma jornada que começa com conhecimento, comunidade e coragem.",
+    "p3": "O nosso trabalho apoia-se na acção comunitária direta: encontros técnicos do BitDevs, workshops da Academia Trezor, sessões de custódia comunitária com Fedi, inclusão de comerciantes e capacitação de jovens pelo skate em Maputo e Matola.",
+    "p4": "Focamo-nos na construção de economias circulares locais sustentáveis, educação em autocustódia e tradução para português de recursos abertos fundamentais para garantir a soberania digital de todos."
+  },
+  "community": {
+    "title": "Nossa Comunidade",
+    "subtitle": "Um espaço para aprender, colaborar e contribuir para o ecossistema Bitcoin em Moçambique e na África.",
+    "items": [
+      {
+        "id": "bitdevs-maputo",
+        "name": "BitDevs Maputo",
+        "location": "Maputo, Moçambique",
+        "description": "Seminários técnicos e encontros regulares focados no desenvolvimento do protocolo Bitcoin, Lightning Network, Nostr e Fedimint.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "bitcoin-famba-skate",
+        "name": "Bitcoin Famba & Skate",
+        "location": "Matola (Luis Vinho Skate Park), Moçambique",
+        "description": "Capacitação juvenil unindo skate e literacia financeira, introduzindo autocustódia de Bitcoin e independência digital aos jovens.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "fedi-community-maputo",
+        "name": "Comunidade Fedi Maputo",
+        "location": "Maputo & Matola, Moçambique",
+        "description": "Custódia comunitária através de federações Fedimint, transações eCash e integração de comerciantes na economia circular.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "bff-mozambique",
+        "name": "Bitcoin for Fairness Moçambique",
+        "location": "Maputo, Moçambique",
+        "description": "Educação em direitos humanos e liberdade financeira para estudantes, empreendedores, ONGs e jornalistas com Anita Posch.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      }
+    ]
+  },
   "homeinf": {
-        "title": "O pilar de educação, adoção Bitcoin e liberdade financeira da Bitcoin Famba",
-        "desc": "Capacitando pessoas para a soberania financeira em Moçambique",
-        "etc": "Aprende, participa e conecta-te com uma nova economia descentralizada",
-        "buttons": {
-          "join": "Junta-te à comunidade",
-          "learn_more": "Saiba mais"
-        }
-  } ,
+    "title": "O pilar de educação, adopção Bitcoin e liberdade financeira em Moçambique",
+    "desc": "Capacitando comunidades para a soberania financeira em Maputo e por todo Moçambique",
+    "etc": "Aprende, participa e conecta-te com uma nova economia circular descentralizada",
+    "buttons": {
+      "join": "Junta-te à comunidade",
+      "learn_more": "Saiba mais",
+      "support": "Apoiar no Geyser"
+    }
+  },
   "footer": {
     "description": "É uma iniciativa comunitária em",
     "description_plus": " que promove educação em Bitcoin, inclusão financeira e economias locais circulares. Através de workshops, meet-ups e programas para jovens, capacitamos comunidades a construir autonomia financeira com tecnologia descentralizada.",
@@ -33,10 +136,11 @@
     ]
   },
   "subscribe": {
-    "title": "Inscreva-se em nossa newsletter",
-    "placeholder": "Digite seu endereço de email",
-    "nameplaceholder": "Digite seu nome",
-    "secondnameplaceholder": "Digite seu sobrenome",
+    "title": "Inscreva-se na nossa newsletter",
+    "placeholder": "Digite o seu endereço de email",
+    "emailplaceholder": "Digite o seu endereço de email",
+    "nameplaceholder": "Digite o seu nome",
+    "secondnameplaceholder": "Digite o seu sobrenome",
     "button": "Inscrever-se"
   }
 }

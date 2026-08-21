@@ -1,18 +1,121 @@
 {
-  "menu":{
+  "menu": {
     "home": "Home",
     "about": "About",
     "blog": "Blog",
     "contact": "Contact",
     "events": "Events"
   },
+  "hero": {
+    "badge": "Bitcoin Community Maputo Mozambique",
+    "title": "Walking Toward Financial Freedom in Mozambique",
+    "subtitle": "Bitcoin Famba is a grassroots initiative based in Maputo-Matola, Mozambique, dedicated to empowering communities through Bitcoin education, circular economy building, and cultural storytelling. 'Famba' means 'to walk' in Changana — because financial autonomy is a journey that begins with knowledge, community, and courage.",
+    "cta": "Learn more",
+    "scroll": "Scroll",
+    "image_alt": "Bitcoin Famba community in Maputo, Mozambique",
+    "stats": {
+      "raised": "$2.4K · 2.5M sats",
+      "contributors": "14 Contributors",
+      "followers": "4 Followers",
+      "posts": "5 Posts"
+    },
+    "tags": [
+      "bitcoin-adoption",
+      "bitcoin-education",
+      "bitcoin-meetup",
+      "bitcoin-africa"
+    ]
+  },
+  "programs": {
+    "title": "Our Programs",
+    "learn_more": "Learn more",
+    "items": [
+      {
+        "id": "bitdevs-maputo",
+        "title": "BitDevs Maputo",
+        "description": "Technical community inspired by BitDevs NYC. Monthly Socratic Seminars, Whitepaper Series, and Debate Series exploring Bitcoin Core, Lightning, Nostr, and Fedimint development.",
+        "link": "/events#bitdevs",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "trezor-academy",
+        "title": "Trezor Academy",
+        "description": "A structured educational path from Bitcoin basics to advanced mastery and self-custody. Hands-on training on fiat currency flaws, onchain & Lightning wallets, and security.",
+        "link": "/events#trezor",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "fedi-meetup",
+        "title": "Fedi Meetup Maputo",
+        "description": "Interactive workshops exploring Fedimint community custody, eCash, and the Fedi super-app for private, collaborative commerce and financial inclusion in Mozambique.",
+        "link": "/events#fedi",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "bitcoin-for-fairness",
+        "title": "Bitcoin for Fairness Workshops",
+        "description": "Grassroots training in partnership with Bitcoin for Fairness (BFF), empowering students, local merchants, skate park youth, NGOs, and journalists with practical Bitcoin tools.",
+        "link": "/events#bff",
+        "image": "/t.jpeg"
+      }
+    ]
+  },
+  "mission": {
+    "title_prefix": "Our",
+    "title_highlight": "Mission",
+    "button": "Get in touch",
+    "heading": "Bitcoin Famba exists to empower communities in Mozambique through Bitcoin education, circular economy building, and financial sovereignty.",
+    "p1": "To fulfill its potential as a tool for freedom and human rights, Bitcoin must be accessible, relatable, and localized to the real-world economic challenges in Mozambique.",
+    "p2": "The name 'Famba', meaning 'to walk' in Changana, reflects our belief that financial autonomy is a journey that begins with knowledge, community, and courage.",
+    "p3": "Our work is grounded in grassroots action: technical BitDevs meetups, Trezor Academy workshops, Fedi community custody sessions, merchant onboarding, and youth empowerment through skateboarding in Maputo and Matola.",
+    "p4": "We focus on building sustainable local circular economies, self-custody education, and Portuguese translation of critical open-source materials to ensure digital sovereignty for all."
+  },
+  "community": {
+    "title": "Our Community",
+    "subtitle": "A place to learn, collaborate, and contribute to the Bitcoin ecosystem in Mozambique and Africa.",
+    "items": [
+      {
+        "id": "bitdevs-maputo",
+        "name": "BitDevs Maputo",
+        "location": "Maputo, Mozambique",
+        "description": "Technical seminars and regular meetups focused on Bitcoin protocol development, Lightning Network, Nostr, and Fedimint.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "bitcoin-famba-skate",
+        "name": "Bitcoin Famba & Skate",
+        "location": "Matola (Luis Vinho Skate Park), Mozambique",
+        "description": "Youth empowerment blending skateboarding and financial literacy, introducing Bitcoin self-custody and digital independence to youth.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "fedi-community-maputo",
+        "name": "Fedi Community Maputo",
+        "location": "Maputo & Matola, Mozambique",
+        "description": "Community custody through Fedimint federations, eCash transactions, and merchant circular economy onboarding.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      },
+      {
+        "id": "bff-mozambique",
+        "name": "Bitcoin for Fairness Mozambique",
+        "location": "Maputo, Mozambique",
+        "description": "Human rights and financial freedom education for students, entrepreneurs, NGOs, and journalists with Anita Posch.",
+        "logo": "bitdevs.ico",
+        "image": "/t.jpeg"
+      }
+    ]
+  },
   "homeinf": {
-    "title": "The pillar of education, Bitcoin adoption and financial freedom of Bitcoin Famba",
-    "desc": "Empowering people for financial sovereignty in Mozambique",
-    "etc": "Learn, engage and connect with a new decentralized economy",
+    "title": "The pillar of education, Bitcoin adoption and financial freedom in Mozambique",
+    "desc": "Empowering communities for financial sovereignty in Maputo and across Mozambique",
+    "etc": "Learn, engage, and connect with a new decentralized circular economy",
     "buttons": {
       "join": "Join the community",
-      "learn_more": "Learn more"
+      "learn_more": "Learn more",
+      "support": "Support on Geyser"
     }
   },
   "footer": {
